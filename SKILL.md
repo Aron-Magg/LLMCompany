@@ -5,7 +5,7 @@ description: Use when the user wants to build an "office of AI agents": a projec
 
 # Agent office
 
-Author: Aron Maggisano · License: proprietary, all rights reserved (see `LICENSE`) · Version 1.1
+Author: Aron Maggisano · License: MIT · Source: https://github.com/Aron-Magg/LLMCompany
 
 A way to run many AI agents in one repository like a small company. Agents have rooms, a badge, written rules and shared tools. Everything that matters is written in files, so a new chat can resume from them.
 

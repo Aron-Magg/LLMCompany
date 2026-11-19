@@ -1,29 +1,21 @@
-agent-office: Proprietary Software License
-Copyright (c) 2026 Aron Maggisano. All rights reserved.
+MIT License
 
-This software, including the skill, documentation, templates, tools and scripts
-(the "Software"), is proprietary. It is licensed, not sold.
+Copyright (c) 2026 Aron Maggisano (https://github.com/Aron-Magg/LLMCompany)
 
-1. Grant. A person or organization that obtained the Software directly from the
-   author, or from a seller authorized in writing by the author, and paid the
-   applicable price (the "Licensee") may install, use and modify the Software for
-   its own internal purposes.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-2. Restrictions. The Licensee may not, without prior written permission of the
-   author: copy the Software except as needed for that use and for backups;
-   redistribute, publish, sell, sublicense, rent or share the Software or any
-   modified version; or remove this notice or the author's name.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-3. Ownership. The author keeps all rights not expressly granted here.
-
-4. No warranty. The Software is provided "as is", without warranty of any kind.
-   In no event shall the author be liable for any claim, damages or other
-   liability arising from the Software or its use.
-
-5. Termination. This license ends automatically if the Licensee breaks it. The
-   Licensee must then stop using and delete all copies.
-
-Versions released before 19 November 2026 under the MIT License remain under
-that license only for those who received them at that time.
-
-Contact: https://github.com/Aron-Magg
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

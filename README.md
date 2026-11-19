@@ -2,7 +2,7 @@
 
 A Claude Code skill and folder template for running several AI agents in one repository like a small office. Agents get rooms, a badge, layered rule files, mailboxes, a knowledge library, estimates before work, approvals recorded with a hash, and optional wardens that enforce the rules through hooks.
 
-The package holds the skill (`SKILL.md`), reference documents, a folder template, small Python tools with no dependencies, and an init script. By Aron Maggisano. Proprietary license, all rights reserved.
+The package holds the skill (`SKILL.md`), reference documents, a folder template, small Python tools with no dependencies, and an init script. By Aron Maggisano, MIT license.
 
 ## Prerequisites
 
@@ -23,5 +23,5 @@ Required: `--target`, `--owner`, `--language`. `--brand` is the exact spelling r
 
 ## Author and license
 
-Created by Aron Maggisano. Proprietary software, all rights reserved (see `LICENSE`). Use requires a license from the author.
-Contact: https://github.com/Aron-Magg
+Created by Aron Maggisano. Released under the MIT License (see `LICENSE`).
+Official source: https://github.com/Aron-Magg/LLMCompany

@@ -1,0 +1,6 @@
+[Unit]
+Description=Agent office watchdog round
+[Service]
+Type=oneshot
+WorkingDirectory={{OFFICE}}
+ExecStart={{PYTHON}} {{OFFICE}}/management/tools/watchdog.py round

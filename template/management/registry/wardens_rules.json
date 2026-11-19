@@ -1,0 +1,75 @@
+{
+  "rules": {
+    "ports": {
+      "mode": "block",
+      "rule": "R18",
+      "text": "Ports"
+    },
+    "wide_kill": {
+      "mode": "block",
+      "rule": "R19",
+      "text": "Wide kill"
+    },
+    "git_push": {
+      "mode": "block",
+      "rule": "R05",
+      "text": "Git push"
+    },
+    "commit_paths": {
+      "mode": "warn",
+      "rule": "R05",
+      "text": "Commit paths"
+    },
+    "protected_folder": {
+      "mode": "block",
+      "rule": "R21",
+      "text": "Protected folder"
+    },
+    "secrets": {
+      "mode": "block",
+      "rule": "R22",
+      "text": "Secrets"
+    },
+    "long_job": {
+      "mode": "warn",
+      "rule": "R09",
+      "text": "Long job"
+    },
+    "file_name": {
+      "mode": "warn",
+      "rule": "R03",
+      "text": "File name"
+    },
+    "time": {
+      "mode": "warn",
+      "rule": "R02",
+      "text": "Time"
+    },
+    "credit": {
+      "mode": "warn",
+      "rule": "R06",
+      "text": "Credit"
+    },
+    "postponement": {
+      "mode": "warn",
+      "rule": "R06",
+      "text": "Postponement"
+    },
+    "agent_estimate": {
+      "mode": "warn",
+      "rule": "R06",
+      "text": "Agent estimate"
+    },
+    "agent_quota": {
+      "mode": "block",
+      "rule": "R06",
+      "text": "Agent quota threshold"
+    }
+  },
+  "protected_ports": [],
+  "protected_folders": [],
+  "trial_successes": 0,
+  "ai_warden": {
+    "enabled": false
+  }
+}

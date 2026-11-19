@@ -1,0 +1,8 @@
+[Unit]
+Description=Agent office watchdog timer
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=5min
+Persistent=false
+[Install]
+WantedBy=timers.target
